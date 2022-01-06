@@ -1,1 +1,1 @@
-# https://github.com/FunsTW/Memo/wiki
+# [My personal development notes](https://github.com/FunsTW/Memo/wiki)
